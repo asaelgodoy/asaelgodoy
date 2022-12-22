@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p>My name is Asael Godoy, I'm currently a DevOps intern and a student hungry for knowledge.</p>
-<p><i>"You miss 100% of the shots you don't take."</i> -Michael Scott</p>
+<h4>My name is Asael Godoy, I'm currently a DevOps intern and a student hungry for knowledge.<h4>
+<h4><i>"You miss 100% of the shots you don't take."</i> - Michael Scott</h4>
 
 <div align="center">
   <a href="https://github.com/asaelgodoy">
