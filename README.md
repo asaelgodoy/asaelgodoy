@@ -1,7 +1,6 @@
 ### Hi there 👋
-<p>My name is Asael Godoy, I'm currently a DevOps intern and maybe not today, maybe not tomorrow, maybe not next month or a year.</p>
-<p>But Only one thing is true. </p>
-<p>I will be the a **senior software engineer** one day</p>
+<p>My name is Asael Godoy, I'm currently a DevOps intern and a student hungry for knowledge.</p>
+<p>"You miss 100% of the shots you don't take."<cite>Michael Scott</cite></p>
 
 <div align="center">
   <a href="https://github.com/asaelgodoy">
