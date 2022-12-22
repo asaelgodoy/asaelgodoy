@@ -5,11 +5,11 @@
 <div align="center" dir="auto>
   <a href="https://github.com/asaelgodoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaelgodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaelgodoy&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaelgodoy&layout=compact&langs_count=7&theme=dracula" />
 </div>
   
 ##
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h4>Here it is some tools and technologies that I master:</h4>
   <img align="center" target="_blank" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" target="_blank" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
