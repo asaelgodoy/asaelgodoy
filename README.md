@@ -10,7 +10,7 @@
   
 ##
 <div style="display: inline_block"><br>
-  <p>Here it is some tools and technologies that I master:</p>
+  <h4>Here it is some tools and technologies that I master:</h4>
   <img align="center" target="_blank" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" target="_blank" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img align="center" target="_blank" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
