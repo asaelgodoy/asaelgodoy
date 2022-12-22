@@ -2,7 +2,7 @@
 <h4>My name is Asael Godoy, I'm currently a DevOps intern and a student hungry for knowledge.<h4>
 <h4><i>"You miss 100% of the shots you don't take."</i> - Michael Scott</h4>
 
-<div align="center">
+<div align="center" dir="auto>
   <a href="https://github.com/asaelgodoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asaelgodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaelgodoy&layout=compact&langs_count=7&theme=dracula"/>
