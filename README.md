@@ -4,7 +4,7 @@
 <p>Maybe not tomorrow,</p>
 <p>Maybe not next month or a year.</p>
 <p>But Only one thing is true. </p>
-<p>I will be the a senior software engineer one day</p>
+<p>I will be the a senior software engineer one day!</p>
 
 <div align="center">
   <a href="https://github.com/asaelgodoy">
